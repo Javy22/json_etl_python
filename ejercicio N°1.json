@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Javier",
+        "apellido": "Salinas",
+        "dni": "27794377",
+        "prendas": [
+            {
+                "prenda": "zapatilla",
+                "cantidad": "4"
+            },
+            {
+                "prenda": "remeras",
+                "cantidad": "12"
+            }
+        ]
+    }
+]
